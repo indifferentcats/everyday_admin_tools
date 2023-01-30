@@ -1,5 +1,5 @@
 #!/bin/sh
-extra_commands="awscurl cfn-lint"
+extra_commands="awscurl cfn-lint jsondiff jsonpointer jsonschema jsonpatch"
 user_bin_dir=$HOME/.local/bin
 if [ ! -d $user_bin_dir ]; then
     echo "User bin folder $user_bin_dir does not exist."
