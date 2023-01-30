@@ -29,7 +29,7 @@ environment.
 3. Add the new commands to the top of `install.txt`
 4. Re-run `./install.sh`
 5. If this is your own copy of the repository, 
-   a. Make a branch
-   b. Change the origin for the branch to be your repository
-   c. Commit the changes to your branch
-   d. Optionally, submmit a pull request on the original repository
+    1. Make a branch
+    2. Change the origin for the branch to be your repository
+    3. Commit the changes to your branch
+    4. Optionally, submmit a pull request on the original repository
