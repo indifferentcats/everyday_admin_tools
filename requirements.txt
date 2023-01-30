@@ -1,0 +1,3 @@
+awscurl
+cfn-lint
+pydot
