@@ -19,6 +19,9 @@ environment.
 
 ## Set Up
 
+If your system has a `python3.8` command, then you are all set.  If not, edit the `install.sh` command 
+and substitute your available interpreter.
+
 1. Make the directory `~/.local/bin` and add it to your permanent path
 2. Run the `./install.sh` - If the local bin folder doesn't exist, this will give you example commands to get it set up
 
